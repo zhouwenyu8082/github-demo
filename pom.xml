@@ -9,6 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <!-- 分支提交测试-->
+<!--          拉取测试 -->
     <packaging>pom</packaging>
     
         <modules>
