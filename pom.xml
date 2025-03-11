@@ -8,9 +8,9 @@
         <version>3.3.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
+    <!-- 分支提交测试-->
     <packaging>pom</packaging>
-
+    
         <modules>
             <module>services</module>
             <module>model</module>
