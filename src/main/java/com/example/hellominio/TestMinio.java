@@ -9,7 +9,7 @@ import java.security.NoSuchAlgorithmException;
 
 public class TestMinio {
     public static void main(String[] args) {
-        //测试
+        //测试12321
         String endpoint = "http://192.168.19.131:9000";
         String accessKey = "minioadmin";
         String secretKey = "minioadmin";
