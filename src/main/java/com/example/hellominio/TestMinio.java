@@ -9,11 +9,12 @@ import java.security.NoSuchAlgorithmException;
 
 public class TestMinio {
     public static void main(String[] args) {
-
+        //测试
         String endpoint = "http://192.168.19.131:9000";
         String accessKey = "minioadmin";
         String secretKey = "minioadmin";
         String bucketName = "hello-minio";
+        String  A= "1";
 
         //创建几乎全是构造器模式
         //builder()构造器endpoint(服务端地址) credential(用户名 密码)+build()+建立
