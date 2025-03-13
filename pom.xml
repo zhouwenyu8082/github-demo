@@ -10,6 +10,7 @@
     </parent>
     <!-- 分支提交测试-->
 <!-- 在机房测试拉取测试 -->
+<!--          github写入 gitee刷新 -->
     <packaging>pom</packaging>
     
         <modules>
